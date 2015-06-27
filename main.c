@@ -1,4 +1,4 @@
-/* function returning the max between two numbers */
+/* function returning the max between two numbers check*/
 int max(int num1, int num2) 
 {
    /* local variable declaration */
